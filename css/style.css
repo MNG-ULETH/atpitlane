@@ -606,7 +606,7 @@ p {
     .video1 {
         grid-row: 1;
         grid-column: 1;
-        width:50%;
+        width:80vw;
         display: block;
     }
     
@@ -614,7 +614,7 @@ p {
     .video2 {
         grid-row: 2;
         grid-column: 1;
-        width:50%;
+        width:80vw;
         display: block;
         
     }
