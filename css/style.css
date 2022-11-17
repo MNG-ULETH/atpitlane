@@ -363,6 +363,7 @@ p {
     padding: 20px 12vw 100px 12vw;
     background-image: url('../images/model.png');
     background-size: contain;
+    display: block;
     
     
     
@@ -387,7 +388,7 @@ p {
     background-color: white;
     background-image: url("../images/carback.png");
     background-size:cover;
-    
+    display: block;
     
 }
 
