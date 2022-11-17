@@ -584,6 +584,18 @@ p {
         grid-gap: 10px;
     }
 
+    .yukiheading {
+        font-size: 12vw;
+    }
+
+    .gaslyheading {
+        font-size: 12vw;
+    }
+
+    .managersheading {
+        font-size: 12vw;
+    }
+
 
 
 
