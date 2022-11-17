@@ -361,7 +361,7 @@ p {
     line-height: 4.5vh;
     max-width: 70vw;
     padding: 20px 12vw 100px 12vw;
-    background-image: url(/images/model.png);
+    background-image: url('../images/model.png');
     background-size: contain;
     
     
@@ -385,7 +385,7 @@ p {
 
 .historybody {
     background-color: white;
-    background-image: url("/images/carback.png");
+    background-image: url("../images/carback.png");
     background-size:cover;
     
     
